@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Machine learning projects
 - 📫 How to reach me ssathishkumar.118@gmail.com
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sathish-kumar-unique/) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-informational?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ssathishkumar) [![Github Badge](https://img.shields.io/badge/-Github-lightgrey?style=flat-square&logo=github&logoColor=black)](https://github.com/sathishkumar118) <a href="https://github.com/sathishkumar118" target="_blank">![Github Badge](https://img.shields.io/badge/-Github-lightgrey?style=flat-square&logo=github&logoColor=black)</a>
+<a href="https://www.linkedin.com/in/sathish-kumar-unique/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)</a> <a href="https://www.kaggle.com/ssathishkumar" target="_blank">![Kaggle Badge](https://img.shields.io/badge/-Kaggle-informational?style=flat-square&logo=Kaggle&logoColor=white)</a> <a href="https://github.com/sathishkumar118" target="_blank">![Github Badge](https://img.shields.io/badge/-Github-lightgrey?style=flat-square&logo=github&logoColor=black)</a>
 
 
 I'm delighted to see you here!
