@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sathish Kumar
 - 👀 I’m interested in Programming and Machine Learning
-- 🌱 I’m currently working as a Software Engineer while I am learning Data science concepts to transition my career soon
+- 🌱 I’m currently working as a Senior BI Analyst in process analytics.
 - 💞️ I’m looking to collaborate on any Machine learning projects
 - 📫 How to reach me ssathishkumar.118@gmail.com
 
